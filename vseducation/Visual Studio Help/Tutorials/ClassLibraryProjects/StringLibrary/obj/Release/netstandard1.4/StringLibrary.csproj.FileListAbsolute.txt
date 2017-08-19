@@ -1,0 +1,8 @@
+C:\Users\ause.sims.dev\Documents\Visual Studio 2017\Projects\C#\Clasic Desktop\Console Applcaton\ClassLibraryProjects\StringLibrary\bin\Release\netstandard1.4\StringLibrary.deps.json
+C:\Users\ause.sims.dev\Documents\Visual Studio 2017\Projects\C#\Clasic Desktop\Console Applcaton\ClassLibraryProjects\StringLibrary\bin\Release\netstandard1.4\StringLibrary.dll
+C:\Users\ause.sims.dev\Documents\Visual Studio 2017\Projects\C#\Clasic Desktop\Console Applcaton\ClassLibraryProjects\StringLibrary\bin\Release\netstandard1.4\StringLibrary.pdb
+C:\Users\ause.sims.dev\Documents\Visual Studio 2017\Projects\C#\Clasic Desktop\Console Applcaton\ClassLibraryProjects\StringLibrary\obj\Release\netstandard1.4\StringLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ause.sims.dev\Documents\Visual Studio 2017\Projects\C#\Clasic Desktop\Console Applcaton\ClassLibraryProjects\StringLibrary\obj\Release\netstandard1.4\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ause.sims.dev\Documents\Visual Studio 2017\Projects\C#\Clasic Desktop\Console Applcaton\ClassLibraryProjects\StringLibrary\obj\Release\netstandard1.4\StringLibrary.AssemblyInfo.cs
+C:\Users\ause.sims.dev\Documents\Visual Studio 2017\Projects\C#\Clasic Desktop\Console Applcaton\ClassLibraryProjects\StringLibrary\obj\Release\netstandard1.4\StringLibrary.dll
+C:\Users\ause.sims.dev\Documents\Visual Studio 2017\Projects\C#\Clasic Desktop\Console Applcaton\ClassLibraryProjects\StringLibrary\obj\Release\netstandard1.4\StringLibrary.pdb
