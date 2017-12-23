@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## vseducation
 Tutorials and Education in using Microsoft Visual Studio.
 
@@ -37,3 +38,23 @@ information on contacting us and steps to submit your own tutirials on GitHub, Y
 ## Documentation and Information
 
 Visual Studio Education reserves the right to modify and/or change documentation, turorials, media presentation or examples without notice.
+=======
+# vseducation
+The .NET Visual Studio Education blog site.
+
+Hello, World and welcome to the Visual Studio Education on GitHub!
+
+# Facebook Page: http://www.facebook.com/visualstudioeducation
+# GitHub Repositories: http://www.github.com/vsedudation
+# Bogs and Examples: http://lsdn.azurewebsites.net
+
+# Purpose
+The purpose is to bring together those who have simular intress in programming, web design or wants to learn any of technologies that are offered for Visual Studio, Azure and simular technologies via Open Source or otherwise.
+
+# Repository Files
+The files will be uploaded when they are completed. Please bear in mind this is a slow process since I work on many projects at once.
+
+# Participation
+Those who have the knowlledge and want to take part can do so. I as before you upload anything to please generate a discussion first to make sure that it is in line with development and change management processes.
+
+>>>>>>> 28771b39becb02628ec9c24754883ef793fc0c9b
