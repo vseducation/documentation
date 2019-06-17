@@ -1,4 +1,4 @@
-# Welcome to Visual Studio Education
+## Welcome to Visual Studio Education
 
 Hello, world
 
@@ -55,6 +55,6 @@ All private works can be found in our Microsoft Azure DevOps services account ht
 For information on how to contribute to the project such as providing tutorials, etc. Please read the CONTRIBUTE.md document which contains information required to make submitions, and pull request in either GitHub or Azure DevOps.
 
 
-##THIS DOCUMENT
+## RIGHTS RESERVED
 
 We reserver the right to change the content of this document witout written, or electronic notice.
