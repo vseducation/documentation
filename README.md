@@ -57,4 +57,4 @@ This information is pending because it is currently being revised. A release cop
 
 ## RIGHTS RESERVED
 
-Visual Studio Education reserver the right to change the content of this document witout written, or electronic notice.
+Visual Studio Education reserver the right to change the content of this document without written, or electronic notice.
