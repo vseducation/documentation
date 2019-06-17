@@ -1,7 +1,7 @@
+## Visual Studio Migration Question & Answers
 
-The following questions ans answers have been posted for the move event. If you have a question not listed here, please ask it via
+The following Q&A have been posted for the move event. If you have a question not listed here, please ask it via
 our Facebook messenger on our page http://www.facebook.com/visualstudioeducation
-
 
 
 Q: When will the change take place?
