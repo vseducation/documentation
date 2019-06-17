@@ -1,19 +1,20 @@
-#Disclamer
+#DISCLAIMER
 
-The materials used can either be of my design of other indivisuals or orginal works from the software. Please note that the materials obtained carry the same copyright weitght and responsiablities as any software product. 
+Materials submitted are the works of Visual Studio Education, or others who collaborate with Visual Studio Education.
 
-Also, note that it is expressly forbiden to use any material either from this or anyother site to harm or cause damage to other devices and people.
+This disclaimer is broken into different sections to help with the understanding of what is acceptable usage and functionality of any of our works.
 
-Discression is advised when using materials from this site. The code you see here is "As Is" and no warranties are implied.
+#NO WARRANTIES
 
-I will not be held responsiable for anyone who uses the code, examples or programs placed on this repository for the following reasonse...
+Discressionm is advised when using material from any of our sites. The code presented or submitted is classified "As is" and implies no warranties unless they are presented by the author for any works submitted. For this reason, we encourage users to read and understand and documentation, or change logs provided with any submissions to make sure the materials are fit for your devices use.
 
-#The Intent of damaging other devices
+Visual Studio Education will not be held liable for material, damages, or misuse by individual, group, or organizations. This includes, any example code, programs, tutorials, or applications developed or submited.
 
-#Milisicioulous Activities
+#DOCUMENTATION/CHANGE LOGS
 
-#Theif
+Documentation and change logs may be revised without written notification.
 
-#Antitrust
 
-NOTE: This document and the code within the repositories are subject to change at any time.
+#THIS DOCUMENT
+
+We reserve the right to change this disclaimer without any written, or electronic notice.
