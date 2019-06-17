@@ -52,7 +52,7 @@ All private works can be found in our Microsoft Azure DevOps services account ht
 
 ## HOW TO CONTRIBUTE
 
-For information on how to contribute to the project such as providing tutorials, etc. Please read the CONTRIBUTE.md document which contains information required to make submitions, and pull request in either GitHub or Azure DevOps.
+This information is pending because it is currently being revised. A release copy of the document on what is needed, and requirements will be posted no later than 6/19/2019.
 
 
 ## RIGHTS RESERVED
