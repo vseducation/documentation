@@ -34,7 +34,7 @@ Q: What exactly will change in the forum?
 A: Videos, tutorials, tips, updates, and new information about Visual Studio and related products will be announced on the new site and not the Facebook page. The Facebook page will remain as a presence where users can like us and receive general event information as well as message us. All, other functions will be transferred to the new site.
 
 
-Q: What will happened to the older content, which is still on the Facebook page?
+Q: What will happen to the older content, which is still on the Facebook page?
 
 A: All older content is currently being review, including any videos which were recently presented. While the video currently on Facebook status is in limbo, all older content which is not currently up to date will be removed. All, other content which is up to date and falls into the category within the forum changes will be moved to the new site.
 
