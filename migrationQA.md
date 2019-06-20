@@ -40,8 +40,16 @@ A: All older content is currently being review, including any videos which were 
 
 Q: What features will the new site incorporate for users.
 
-A: Users will be able to log into the site and create a site profile. We will have a development blog specifically for the site which users can post their questions and reply to topics. The site will also be linked to our current Azure DevOps repositories where users can download samples of code or they can create their own repository. While there will be other feature these are just the highlights to come.
+A: The site will host some of the following features, several of them which cannot be done on Facebook...
 
+1. Users logons which will include Facebook, and Micrsoft account authencation.
+2. You will be able to write code on site postings. Something we can't do on Facebook.
+3. People who want to contribute to Visual Studio Education will be able to keep track of their contrubutions.
+4. You will be able to see our blog postings, and code examples in the proper format.
+
+Q: Will there be ad's on the new site?
+
+A: No, but we are looking for donations. There will be a link added to the site which will lead to a secure payment page. Donating will help pay for the cost of the web presense, and keeping the domain intact. There, will be a limit on how much people can donate.
 
 Q: Will a site login be required?
 
